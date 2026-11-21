@@ -1,5 +1,5 @@
 # Snowflake Uid for Spring Boot Starter
-# Copyright (c) 2020 Unikue Ltd. All rights reserved.
-# https://unikue.cn
+# Copyright (c) 2020 Jiovan Ltd. All rights reserved.
+# https://jiovan.com
 
-cn.unikue.springstarter.snowflakeuid.config.SnowflakeUidAutoConfiguration
+com.jiovan.spring.starter.snowflakeuid.config.SnowflakeUidAutoConfiguration
