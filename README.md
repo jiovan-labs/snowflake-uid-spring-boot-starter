@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
 # Snowflake UID Spring Boot Starter
 
 Spring Boot application integrates `snowflake` quickly, to generate unique identifiers in order.
